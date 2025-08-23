@@ -1,4 +1,33 @@
 
+# 👩‍💻 About Me
+
+## 💫 Hi 👋, I'm Ritika Bhadani
+*A passionate Full-Stack Web Developer, Programmer, and Problem Solver currently pursuing B.Tech in Computer Science and Engineering at VIT Bhopal University*
+
+
+- 🌱 *I’m currently learning:* Data Science and Machine Learning  
+- 📫 *How to reach me:* *ritikabhadani98@gmail.com*  
+
+## 💡 What Drives Me
+I’m dedicated to learning new technologies, solving challenging problems, and using tech to create meaningful impact. Whether it’s *building smart systems, developing scalable apps, or working with AI*, I love turning ideas into reality.  
+
+---
+
+## 📊 Coding Profiles
+- 🌐 *GeeksforGeeks:* [My GFG Profile](https://www.geeksforgeeks.org/user/ritikabhadani/)  
+- 💻 *LeetCode:* [My LeetCode Profile](https://leetcode.com/u/RitikaBhadani/)  
+
+---
+
+✨ Always excited to collaborate on impactful projects, open-source contributions, and innovative ideas! 🚀
+
+
+---
+
+
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritikabhadani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikabhadani98@gmail.com) 
 
