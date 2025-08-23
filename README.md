@@ -40,7 +40,7 @@ I’m dedicated to learning new technologies, solving challenging problems, and 
 
 
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
