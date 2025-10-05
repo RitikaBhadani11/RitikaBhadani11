@@ -5,7 +5,7 @@
 *A passionate Full-Stack Web Developer, Programmer, and Problem Solver currently pursuing B.Tech in Computer Science and Engineering at VIT Bhopal University*
 
 
-- 🌱 *I’m currently learning:* Data Science and Machine Learning  
+- 🌱 *I’m currently learning:* React Native 
 - 📫 *How to reach me:* *ritikabhadani98@gmail.com*  
 
 ## 💡 What Drives Me
