@@ -1,7 +1,7 @@
 
 # 👩‍💻 About Me
 
-## 💫 Hi 👋, I'm Ritika Bhadani
+## 💫 Hi, I'm Ritika Bhadani
 *A passionate Full-Stack Web Developer, Programmer, and Problem Solver currently pursuing B.Tech in Computer Science and Engineering at VIT Bhopal University*
 
 
