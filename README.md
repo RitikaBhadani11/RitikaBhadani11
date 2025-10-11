@@ -5,7 +5,7 @@
 *A passionate Full-Stack Web Developer, Programmer, and Problem Solver currently pursuing B.Tech in Computer Science and Engineering at VIT Bhopal University*
 
 
-- 🌱 *I’m currently learning:* React Native 
+- 🌱 *I’m currently learning:* React Native and ML
 - 📫 *How to reach me:* *ritikabhadani98@gmail.com*  
 
 ## 💡 What Drives Me
@@ -15,7 +15,8 @@ I’m dedicated to learning new technologies, solving challenging problems, and 
 
 ## 📊 Coding Profiles
 - 🌐 *GeeksforGeeks:* [My GFG Profile](https://www.geeksforgeeks.org/user/ritikabhadani/)  
-- 💻 *LeetCode:* [My LeetCode Profile](https://leetcode.com/u/RitikaBhadani/)  
+- 💻 *LeetCode:* [My LeetCode Profile](https://leetcode.com/u/RitikaBhadani/)
+- 👩‍💻 *Portfolio:* [My Portfolio](https://ritikabhadani11.github.io/My-Portfolio/)
 
 ---
 
