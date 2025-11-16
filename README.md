@@ -16,7 +16,7 @@ I’m dedicated to learning new technologies, solving challenging problems, and 
 ## 📊 Profiles
 - 🌐 *GeeksforGeeks:* [My GFG Profile](https://www.geeksforgeeks.org/user/ritikabhadani/)  
 - 💻 *LeetCode:* [My LeetCode Profile](https://leetcode.com/u/RitikaBhadani/)
-- 👩‍💻 *Portfolio:* [My Portfolio](https://ritikabhadani11.github.io/My-Portfolio/)
+- 👩‍💻 *Portfolio:* [My Portfolio]([https://ritikabhadani11.github.io/My-Portfolio/](https://golden-pastelito-527e75.netlify.app/))
 - 📫 *Resume:*[My Resume](https://drive.google.com/file/d/1VWA_MAkq5shiMGiUUTKskYg7idY__ICf/view)
 
 ---
