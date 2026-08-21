@@ -5,7 +5,7 @@
 *A passionate Full-Stack Web Developer, Programmer, and Problem Solver currently pursuing B.Tech in Computer Science and Engineering at VIT Bhopal University*
 
 
-- 🌱 *I’m currently learning:* React Native and ML
+- 🌱 *I’m currently working as a SDE1 at Trustt(Formerely Novopay):*
 - 📫 *How to reach me:* *ritikabhadani98@gmail.com*  
 
 ## 💡 What Drives Me
